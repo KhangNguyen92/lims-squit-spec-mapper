@@ -1,0 +1,17 @@
+<struts-config>
+<action-mappings>
+<action
+path="/specMapping.do"
+type="com.ibm.lims.actions.transformer.SpecMappingAction"
+parameter="method"
+scope="request">
+<forward name="searchLimsSpecs" path="/limsSpecPopup.jsp"/>
+<forward name="searchSquitSpecs" path="/squitSpecPopup.jsp"/>
+<forward name="searchSpecMappings" path="/specList.jsp"/>
+<forward name="openSpecMapping" path="/specEdit.jsp"/>
+<forward name="viewSpecMappings"
+path="/specMapping.do?method=searchSpecMappings"
+redirect="true"/>
+</action>
+</action-mappings>
+</struts-config>
