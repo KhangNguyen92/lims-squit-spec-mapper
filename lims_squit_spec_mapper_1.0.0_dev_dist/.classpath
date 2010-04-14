@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/java/main"/>
+	<classpathentry kind="src" path="src/java/tests"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre6"/>
+	<classpathentry kind="lib" path="D:/workspace/tcs/lib/third_party/log4j/1.2.15/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/tcs/lib/third_party/commons-beanutils.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/tcs/lib/third_party/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/tcs/lib/third_party/commons-digester.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/tcs/lib/third_party/jakarta-oro.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/tcs/lib/third_party/jdbc2_0-stdext.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/tcs/lib/third_party/struts.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/tcs/lib/third_party/apache-tomcat-6.0.9.zip"/>
+	<classpathentry kind="lib" path="E:/Program Files/Apache Software Foundation/Tomcat 6.0/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/tcs/lib/third_party/junit-3.8.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
