@@ -1,0 +1,13 @@
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<PropertyGroup>
+    <!-- Component Name and Version Information -->
+    <ComponentName>Hera Proxied Email Manager</ComponentName>
+    <ComponentDistFileName>hera_proxied_email_manager</ComponentDistFileName>
+    <ComponentPackage>Hera.ProxiedEmail</ComponentPackage>
+    <ComponentPackageDir>Hera\ProxiedEmail</ComponentPackageDir>
+    <ComponentVersionMajor>1</ComponentVersionMajor>
+    <ComponentVersionMinor>0</ComponentVersionMinor>
+    <ComponentVersionMicro>0</ComponentVersionMicro>
+    <ComponentVersionBuild>1</ComponentVersionBuild>
+  </PropertyGroup>
+</Project>
